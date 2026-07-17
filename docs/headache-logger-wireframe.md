@@ -1,4 +1,4 @@
-# Headache Logger Wireframe
+# Headache Logger Wireframe（頭痛記録アプリ ワイヤーフレーム）
 
 ## UI / UX方針
 
